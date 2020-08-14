@@ -1,0 +1,1 @@
+@mainpage prime number function @subpage prime_number.h
