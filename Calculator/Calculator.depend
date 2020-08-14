@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1597428609 source:c:\users\ysush\desktop\calculator\main.c
+	"test_calculator.h"
+
+1597428209 c:\users\ysush\desktop\calculator\test\test_calculator.h
+
+1597428209 source:c:\users\ysush\desktop\calculator\src\addition.c
+	"addition.h"
+
+1597428209 c:\users\ysush\desktop\calculator\inc\addition.h
+
+1597428209 source:c:\users\ysush\desktop\calculator\src\substraction.c
+	"substraction.h"
+	<math.h>
+
+1597428552 c:\users\ysush\desktop\calculator\inc\substraction.h
+
+1597428967 source:c:\users\ysush\desktop\calculator\test\test_calculator.c
+	"unity.h"
+	"addition.h"
+	"substraction.h"
+
+1597428209 c:\users\ysush\desktop\calculator\unity\unity.h
+	"unity_internals.h"
+
+1597428210 c:\users\ysush\desktop\calculator\unity\unity_internals.h
+	"unity_config.h"
+	<setjmp.h>
+	<math.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdint.h>
+	<limits.h>
+	<stdio.h>
+	<stdio.h>
+	<time.h>
+	<time.h>
+
+1597428775 source:c:\users\ysush\desktop\calculator\src\calculator.c
+	"calculator.h"
+	"addition.h"
+	"substraction.h"
+	<string.h>
+
+1597428412 c:\users\ysush\desktop\calculator\inc\calculator.h
+
+1597428210 source:c:\users\ysush\desktop\calculator\unity\unity.c
+	"unity.h"
+	<stddef.h>
+	<avr/pgmspace.h>
+
