@@ -10,7 +10,7 @@ src/prime_number.c\
 
 # All test source files
 TEST_SRC = src/prime_number.c\
-test/test_prime.c\
+test/test_prime.c
 
 TEST_OUTPUT = $(BUILD)/Test_$(PROJECT_NAME).out
 
